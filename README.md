@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGreenSlash
 - 👀 I’m interested in video game development.
-- 🌱 I’m currently learning Java, C#, Godot.
+- 🌱 I’m currently learning NextJs, React, Java, C#, Godot.
 - 💞️ I’m looking to collaborate on anything beginner friendly.
 - 📫 How to reach me: ronakverma121@gmail.com
 
